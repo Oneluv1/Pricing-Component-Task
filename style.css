@@ -12,7 +12,7 @@ body {
   justify-content: center;
   font-family: "Montserrat", sans-serif;
   text-align: center;
-  min-height: 90vh;
+  min-height: 100vh;
 }
 body::before {
   content: "";
@@ -200,7 +200,6 @@ h1 {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
-  font-size: 14px;
 }
 
 @media screen and (max-width: 768px) {
